@@ -1,3 +1,3 @@
-# test
+# readme
 
-just a test
+All the crypto challs created by me in Mini L CTF2024
